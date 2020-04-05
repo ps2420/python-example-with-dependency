@@ -1,0 +1,15 @@
+<html>
+   <head>
+      <title>{{ title }}</title>
+   </head>
+   <body>
+	 <div>
+	   Title of the page &nbsp; &nbsp; {{ title }}
+	 </div
+     <ul>
+       {% for item in items %}
+         <li>{{ escape(item) }}</li>
+       {% end %}
+     </ul>
+   </body>
+ </html>

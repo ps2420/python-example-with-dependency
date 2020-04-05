@@ -1,0 +1,3 @@
+[console_scripts]
+python-test-lib2 = __main__:main
+

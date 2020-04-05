@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: python-test-lib2
+Version: 0.0.3
+Summary: A sample Python project
+Home-page: https://github.com/pypa/sampleproject
+Author: Pankaj Singh
+Author-email: xxxx@gmail.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/pypa/sampleproject/issues
+Project-URL: Funding, https://donate.pypi.org
+Project-URL: Say Thanks!, http://saythanks.io/to/example
+Project-URL: Source, https://github.com/pypa/sampleproject/
+Description: Sample README.md file for testing
+Keywords: sample setuptools development
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
